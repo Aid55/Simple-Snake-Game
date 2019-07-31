@@ -11,4 +11,7 @@ package testsnake;
  */
 public class Snake {
     
+    public Snake(){
+        
+    }
 }

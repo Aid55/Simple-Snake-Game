@@ -5,8 +5,6 @@
  */
 package testsnake;
 
-import javax.swing.JFrame;
-
 /**
  *
  * @author atbat
